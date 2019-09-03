@@ -59,7 +59,7 @@ public class test1 {
 		
 		
 		String s1="a";
-		String s2 ="a";
+		String s2 ="abcd";
 		
 		int i1=1;
 		int i2=2;
